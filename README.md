@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Umang</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-achalia&label=Profile%20views&color=0e75b6&style=flat" alt="umang-achalia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang-works&label=Profile%20views&color=0e75b6&style=flat" alt="umang-works" /> </p>
 
 - 🌱 I’m currently learning about **Networking and multithreaded servers**
 
 - 💬 Ask me about **SDL2, Pygame, Tkinter, C++, Python**
 
-- 📫 How to reach me **umang16office@gmail.com**
+- 📫 How to reach me **umang.works25@gmail.com**
 
 - ⚡ Fun fact **I grasp intricate concepts with ease.**
 
